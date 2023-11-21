@@ -1,17 +1,21 @@
 ## Bio
+### Candidate for PhD in Chemistry at University of Rhode Island with a Strong Interest in Business.
 
 ---
-### Education
-
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-### Work Experience
+## Education
+### B.S in Chemistry and Candididate for PhD in Chemistry
 
 
 ---
-### Recent Projects
+## Work Experience
+### Research Assistant
+### Laboratory Technician
+
+
+
+---
+## Recent Projects
+### N/A
 
 
 - [Sample Presentation](http://bloose.github.io/pdf/sample_presentation.pdf)
